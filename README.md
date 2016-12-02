@@ -9,3 +9,8 @@
 
 (4) should we always load packages at the top of the script? or is it better to load in the line just above when the package is needed? perhaps the latter is useful while the code is in development, but moving to the top is a polishing step?
 
+
+
+
+Here's a guide to style and other code-writing things:
+https://www.rstudio.com/rviews/2016/12/02/writing-good-r-code-and-writing-well/
